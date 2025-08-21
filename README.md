@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I’m Peter Ugbeda ,software developer passionate about crafting clean, efficient code and solving real-world problems.</p>
+<p align="left">👋 Hi there! I’m Peter Ugbeda ,software developer passionate about crafting clean, efficient code and solving real-world problems and also an ethical hacker.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Proficient in flutter framework and react framework, HTML and CSS, I specialize in web development, mobile apps, cyber security and enjoy building scalable APIs, user-friendly interfaces, automation tools.</p>
+<p align="left">💻 Proficient in flutter framework and react framework, HTML and CSS, python script, JavaScript, C++, I specialize in web development, mobile apps, cyber security and enjoy building scalable APIs, user-friendly interfaces, automation tools.</p>
 
 ###
 
